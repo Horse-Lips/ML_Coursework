@@ -1,4 +1,4 @@
-# ML_Coursework
+# Machine Learning Coursework
 ML Coursework with a regression task and a classification task.
 
 Important: In order to run the notebook the data must be loaded appropriately.
